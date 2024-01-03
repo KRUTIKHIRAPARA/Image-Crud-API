@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9q00F6AvElcu++HWy+2GRTCdKLmxC3BoAptu/6pxMKk=",
+  "Source": "ImageTest1",
+  "BasePath": "_content/ImageTest1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageTest1\\wwwroot",
+      "Source": "ImageTest1",
+      "ContentRoot": "D:\\C#\\Console\\ImageTest1\\ImageTest1\\wwwroot\\",
+      "BasePath": "_content/ImageTest1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C#\\Console\\ImageTest1\\ImageTest1\\wwwroot\\Content\\07c58f3a-784b-4b5c-989a-18fb8fdaaa5c_Screenshot 2023-08-03 193359.png",
+      "SourceId": "ImageTest1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Console\\ImageTest1\\ImageTest1\\wwwroot\\",
+      "BasePath": "_content/ImageTest1",
+      "RelativePath": "Content/07c58f3a-784b-4b5c-989a-18fb8fdaaa5c_Screenshot 2023-08-03 193359.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\07c58f3a-784b-4b5c-989a-18fb8fdaaa5c_Screenshot 2023-08-03 193359.png"
+    }
+  ]
+}
